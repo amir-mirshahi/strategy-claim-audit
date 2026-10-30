@@ -65,7 +65,8 @@ During development I ran earlier backtests. In those, the 5-minute chart looked 
 
 ## Results
 
-![Strategy Tester report](docs/images/backtest_report.png)
+![Equity Curve](docs/images/equity_curve.png)
+![Chart Trades](docs/images/chart_trades.png)
 
 | Metric | Result |
 |---|---|
